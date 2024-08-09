@@ -10,7 +10,7 @@ I am also a technical blogger, sharing insights and the latest developments in t
 
 ## 🔧 Skills
 
-- **Frontend Development:** Angular, React, MUI, Tailwind, CSS
+- **Frontend Development:** Angular, React, javaScript, MUI, Tailwind, Angular Material, CSS,
 - **Backend Development:** NodeJS, Strapi, REST APIs, GraphQL, Python
 - **DevOps:** Docker, Kubernetes, AWS (VPC, IAM, EC2, S3, RDS, ECS, EKS, CloudFront, DynamoDB)
 - **Database:** PostgreSQL, MongoDB, SQLite
