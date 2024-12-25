@@ -6,7 +6,7 @@
 
 ## 🌌 Welcome
 
-Hi there! I'm **Saad Dastgir**, your friendly neighborhood developer, fueled by coffee, curiosity, and an endless quest for impactful tech solutions. Whether it's building apps, debugging code, or just dreaming up the next big idea, I’m all in. 💻☕
+Hi there! I'm **Saad Dastgir**, your friendly neighborhood developer, fueled by caffeine, curiosity, and an endless quest for impactful tech solutions. Whether it's building apps, debugging code, or just dreaming up the next big idea, I’m all in. 💻☕
 
 When I’m not knee-deep in code, you’ll find me exploring history, world politics, and theology—or just wondering why my plants keep dying. 🌱🤔
 
@@ -16,12 +16,12 @@ When I’m not knee-deep in code, you’ll find me exploring history, world poli
 
 ## 🚀 Current Gig
 
-🎯 **Full-Stack Web Developer** @ TakDevs Private Limited  
-- Turning complex problems into elegant solutions with **Angular** & **Node.js**  
+🎯 **Software Engineer** @ TakDevs Private Limited  
+- Turning complex problems into elegant solutions with **Angular**, **React**, **Python**, **PSQL**, **MongoDB** & **Node.js**  
 - Writing code that’s 90% functionality, 10% magic  
-- Delivering robust backends and scalable architectures with **Strapi**  
+- Delivering robust backends and scalable architectures with **Strapi**, **AWS**, **Docker**, **Kubernetes**  
 
-![Coding Fun](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+![Coding Action](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ---
 
@@ -40,12 +40,11 @@ If you’re into tech talk, memes, or brainstorming world domination strategies 
 
 ## 🎉 Fun Stuff
 
-- 🌍 History buff who can name obscure empires for fun  
-- 📚 Believes books are the original VR experience  
+- 🌍 History buff who can name obscure empires, revolutions for fun  
+- 📚 Believes books are the original VR experience
+- 🕵️‍♂️ Bug bounty hunter by night
 - 💡 Thinks tech is the coolest way to change the world (and memes help too)  
 
 ![Thinking About the Future](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
 
----
 
-Let’s code, laugh, and create something amazing together. 🚀
