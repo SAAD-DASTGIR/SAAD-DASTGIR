@@ -31,6 +31,8 @@ When I’m not knee-deep in code, you’ll find me exploring history, world poli
 Basically, if nerdiness was a crime, I’d be serving life… and refactoring my escape plan in every computer language I know.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAAD-DASTGIR&layout=compact&theme=dark)](https://github.com/SAAD-DASTGIR)
+
+---
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAAD-DASTGIR&show_icons=true&theme=dark)](https://github.com/SAAD-DASTGIR)
 
 ---
