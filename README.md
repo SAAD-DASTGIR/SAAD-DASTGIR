@@ -33,7 +33,12 @@ Basically, if nerdiness was a crime, I’d be serving life… and refactoring my
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAAD-DASTGIR&layout=compact&theme=dark)](https://github.com/SAAD-DASTGIR)
 
 ---
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAAD-DASTGIR&show_icons=true&theme=dark)](https://github.com/SAAD-DASTGIR)
+
+![SAAD-DASTGIR's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SAAD-DASTGIR&theme=vue-dark&hide_border=false)
+
+---
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SAAD-DASTGIR?cardType=octocat&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
