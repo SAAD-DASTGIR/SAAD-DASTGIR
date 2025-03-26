@@ -32,7 +32,7 @@ When I’m not knee-deep in code, you’ll find me exploring history, world poli
 
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAAD-DASTGIR&layout=default&theme=tokyonight&langs_count=8&hide_border=true&card_width=1000)](https://github.com/SAAD-DASTGIR)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAAD-DASTGIR&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&card_width=1000)](https://github.com/SAAD-DASTGIR)  
 
 ---
 
