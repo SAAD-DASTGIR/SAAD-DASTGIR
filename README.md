@@ -28,17 +28,19 @@ When I’m not knee-deep in code, you’ll find me exploring history, world poli
 
 ## 🚀 **Some Nerdy Stats**  
 
-> If nerdiness were a crime, I’d be refactoring my escape plan in every programming language I know…  
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAAD-DASTGIR&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)](https://github.com/SAAD-DASTGIR)  
+> If nerdiness were a crime, I’d be refactoring my escape plan in every programming language I know…
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SAAD-DASTGIR&theme=tokyonight&hide_border=true)](https://github.com/SAAD-DASTGIR)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAAD-DASTGIR&layout=default&theme=tokyonight&langs_count=8&hide_border=true&card_width=1000)](https://github.com/SAAD-DASTGIR)  
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAAD-DASTGIR&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/SAAD-DASTGIR)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SAAD-DASTGIR&theme=tokyonight&hide_border=true&card_width=1000)](https://github.com/SAAD-DASTGIR)  
+
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAAD-DASTGIR&show_icons=true&theme=tokyonight&hide_border=true&card_width=1000)](https://github.com/SAAD-DASTGIR)  
 
 ---
 
@@ -48,6 +50,7 @@ When I’m not knee-deep in code, you’ll find me exploring history, world poli
 
 [![Profile Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAAD-DASTGIR&theme=tokyonight&hide_border=true)](https://github.com/SAAD-DASTGIR)  
 
+---
 
 ## 🤝 Connect
 
