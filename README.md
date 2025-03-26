@@ -36,10 +36,6 @@ When I’m not knee-deep in code, you’ll find me exploring history, world poli
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SAAD-DASTGIR&theme=tokyonight&hide_border=true&card_width=1000)](https://github.com/SAAD-DASTGIR)  
-
----
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAAD-DASTGIR&show_icons=true&theme=tokyonight&hide_border=true&card_width=1000)](https://github.com/SAAD-DASTGIR)  
 
 ---
@@ -48,8 +44,9 @@ When I’m not knee-deep in code, you’ll find me exploring history, world poli
 
 ---
 
-[![Profile Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAAD-DASTGIR&theme=tokyonight&hide_border=true)](https://github.com/SAAD-DASTGIR)  
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAAD-DASTGIR&theme=tokyonight&hide_border=true" width="1000">
+</div>
 ---
 
 ## 🤝 Connect
